@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.Form1.resources
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.Properties.Resources.resources
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\bin\Debug\tipuricSvanMojaDrugaAplikacija.exe.config
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\bin\Debug\tipuricSvanMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\bin\Debug\tipuricSvanMojaDrugaAplikacija.pdb
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.exe
+C:\Users\3.D\source\repos\tipuricSvanMojaDrugaAplikacija\tipuricSvanMojaDrugaAplikacija\obj\Debug\tipuricSvanMojaDrugaAplikacija.pdb
