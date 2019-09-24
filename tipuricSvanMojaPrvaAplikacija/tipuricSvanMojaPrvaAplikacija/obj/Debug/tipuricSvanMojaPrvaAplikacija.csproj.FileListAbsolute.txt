@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\bin\Debug\tipuricSvanMojaPrvaAplikacija.exe.config
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\bin\Debug\tipuricSvanMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\bin\Debug\tipuricSvanMojaPrvaAplikacija.pdb
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\obj\Debug\tipuricSvanMojaPrvaAplikacija.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\obj\Debug\tipuricSvanMojaPrvaAplikacija.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\obj\Debug\tipuricSvanMojaPrvaAplikacija.exe
+C:\Users\3.D\source\repos\tipuricSvanMojaPrvaAplikacija\tipuricSvanMojaPrvaAplikacija\obj\Debug\tipuricSvanMojaPrvaAplikacija.pdb
